@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @olalekanodebunmi123
-- 👀 I’m interested in ...
+- 👋 Hi, I am Olalekan Sunday Odebunmi
+- 👀 I’m interested in Data Analytical Projects
 - 🌱 I’m currently learning Data Analytics,Data science, Data visualisation, Machine Learning, Python, SQL,Decision Tree, Data Modelling, Statistics, Linear Regression, Non Linear Regression, Random Tree
 - 💞️ I’m looking to collaborate on Data Analytical Projects
 - 📫 How to reach me loveleakside@yahoo.com...
